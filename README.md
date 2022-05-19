@@ -1,24 +1,7 @@
 # practicum_proyectos_es
 Proyectos del curso Practicum de Yandex en los cuales se logra apreciar un crecimiento en el conocimiento de Ciencia de Datos.
-# Encabezado nivel 1
-## Encabezado nivel 2
-### Encabezado nivel 3
-#### Encabezado nivel 4
+# Repositorio de proyectos de Ciencia de Datos.
 
-**Este texto aparecerá en negrita**
-*Este texto aparecerá en cursiva*
-***Combínalos si quieres*** 
-
-- Primer elemento de una lista simple
-- Segundo elemento de una lista simple
-    - Subelemento de una lista simple
-> Es un blockquote
-
-1. Una lista ordenada comienza así
-2. Y continúa
-    1. Subelemento 
-    2. Y uno más
-
-| Markdown              | tables                 | can be                      |
+| Nombre del proyecto   | Descripción            | Librerías utilizadas        |
 | :-------------------- | ---------------------: |:---------------------------:|
-|     aligned left      |     aligned right      |      and centered           |
+|     aligned left      | En este proyecto se realizará un análisis del riesgo de incumplimiento de los prestatarios y consiste en preparar un informe para la división de préstamos de un banco. Se deberá averiguar si el estado civil y el número de hijos de un cliente tienen un impacto en el incumplimiento de pago de un préstamo.      |      *pandas, math*          |
