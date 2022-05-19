@@ -1,2 +1,0 @@
-# Credit Scoring
-En este proyecto se realizará un análisis del riesgo de incumplimiento de los prestatarios y consiste en preparar un informe para la división de préstamos de un banco. Se deberá averiguar si el estado civil y el número de hijos de un cliente tienen un impacto en el incumplimiento de pago de un préstamo.
